@@ -1,7 +1,7 @@
 specialNote: ''
 weekly:
   - day: Monday
-    special: Closed
+    special: ''
   - day: Tuesday
     open: 11 am
     close: 5 pm
